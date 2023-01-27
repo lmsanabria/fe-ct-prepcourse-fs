@@ -1,6 +1,9 @@
 /*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
 /*3️⃣ EJERCICIO 03 3️⃣*/
 
+//Para verificar que sean correctos los ejercicios lanzamos:
+//npm test 03
+
 function sonIguales(x, y) {
    // Retorna true si "x" e "y" son iguales.
    // De lo contrario, retorna false.
